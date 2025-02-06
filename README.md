@@ -1,3 +1,4 @@
-# stackblitz-repo
+# JSON Server starter
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/adiarollins/stackblitz-repo)
+1. Run `npm run backend` in the terminal to start the server.
+2. Open a second terminal (by clicking the `[+]` icon) and run `npm run frontend` to open a simple page that fetches data from our backend
